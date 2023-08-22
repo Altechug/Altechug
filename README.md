@@ -8,7 +8,7 @@ Founder of AltechSolutionsUg \[https://altechsolutionsug.com/\]. I do this becau
 
 * 🌍  I'm based in Uganda
 * 🖥️  See my portfolio at [Allan Bakwanamaha](http://altechsolutionsug.com)
-* ✉️  You can contact me at [etienallan@gmail.com](mailto:dummyallan1@gmail.com)
+* ✉️  You can contact me at [dummyallan1@gmail.com](mailto:dummyallan1@gmail.com)
 * 🚀  I'm currently working on [Altech Solutions Ug](http://altechsolutionsug.com)
 * 🧠  I'm learning React, React Native
 
